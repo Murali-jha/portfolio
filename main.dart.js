@@ -52553,7 +52553,7 @@ p=L.jr("I'm a Flutter & Full Stack Developer. \nFirebase,dart&Web.\nI enjoy taki
 s=p.ct$
 p.bO$=C.i
 s=s.jw(s,1.875)
-s.Q=5
+s.Q=10
 s=s.br()
 p=t.w
 p=new V.eT(b.W(p).f).ghc()===C.b7?b.W(p).f.a.a:b.W(p).f.a.a/100*40
