@@ -52681,7 +52681,7 @@ r.push(new N.ze(s))
 return M.a3b(C.cu,new E.Cr(C.l,s,s,!0,s,new F.h4(r,C.b7,C.cs,C.bJ,s),s),C.B,C.u2,0,s,s,C.fM)}}
 F.Ae.prototype={
 M:function(a,b){var s=null,r=X.a3F(s,C.aa,s,s,s).ag,q=B.ef(r.a),p=B.ef(r.b),o=B.ef(r.c),n=B.ef(r.d),m=B.ef(r.e),l=B.ef(r.f),k=B.ef(r.r),j=B.ef(r.x),i=B.ef(r.y),h=B.ef(r.z),g=B.ef(r.Q)
-return new S.ra(new Y.zo(s),"Portfolio",X.a3F(C.aL,s,C.wW,R.a3D(i,h,B.ef(r.ch),g,q,p,o,n,m,l,B.ef(r.cx),k,j),X.a8F()),!1,s)}}
+return new S.ra(new Y.zo(s),"Murali Jha",X.a3F(C.aL,s,C.wW,R.a3D(i,h,B.ef(r.ch),g,q,p,o,n,m,l,B.ef(r.cx),k,j),X.a8F()),!1,s)}}
 D.A6.prototype={
 M:function(a,b){var s,r,q=null,p=t.w,o=new V.eT(b.W(p).f).ghe()===C.b9?C.l:C.k,n=M.a8H("All Creative works,\n"),m=M.a8C("Published projects."),l=m.ct$
 m.bP$=C.uA
