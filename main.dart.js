@@ -52513,7 +52513,7 @@ l=M.a8y("that's all folks.")
 j=l.ct$
 l.bO$=C.oD
 j=k.GY(H.c([j.br()],t.ru)).br()
-k=L.jr("Made in India for India")
+k=L.jr("Contact: +91 6302892042")
 l=k.ct$
 k.bO$=C.uv
 f=H.c([new X.DA(new F.h3(r,C.aE,C.aK,C.bJ,h),new T.dU(C.f1,new T.uc(m,C.eT,!0,new T.b0((s.a.a-(o.f.a+n.f.c))/100*70,h,new F.qz(p,C.pv,C.aK,C.bJ,h),h),h),h),h),new T.b0(h,50,h,h),new A.pW(h),new T.b0(h,10,h,h),j,new T.b0(h,10,h,h),new A.tK(h),new T.b0(h,30,h,h),N.a7l(H.c([l.br()],f),C.aK)],f)
@@ -52553,11 +52553,11 @@ M:function(a,b){var s,r,q=null,p=L.jr(" - About Me - "),o=p.ct$
 p.bO$=C.oD
 o.f=3
 o=o.jw(o,0.875).br()
-p=L.jr("I'm a Flutter & Full Stack Developer. \nFirebase,dart&Web.\nI enjoy taking complex problems and turning them into simple and beautiful User Interfaces")
+p=L.jr("I'm Android and IOS Developer. \nI have worked with many languages, framework and technologies like C++, Java, Dart, Flutter, Firebase, dart & Web.\nI enjoy taking complex problems and turning them into simple and beautiful User Interfaces.\nCurrently I am looking forward to opportunities which allow me to apply my problem solving and logical thinking abilities to the real world scenarios and solve real world problems.")
 s=p.ct$
 p.bO$=C.i
-s=s.jw(s,1.875)
-s.Q=10
+s=s.jw(s,1.5)
+s.Q=20
 s=s.br()
 p=t.w
 p=new V.eU(b.W(p).f).ghc()===C.b9?b.W(p).f.a.a:b.W(p).f.a.a/100*40
